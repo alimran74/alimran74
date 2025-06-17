@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Al Imran
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+Frontend+Web+Developer;React+%2B+Firebase+Lover;Let's+build+something+awesome!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Al+Imran;MERN+Stack+Learner;React+%26+Firebase+Developer;Always+Learning+New+Things;Let's+build+something+new" />
+
 </p>
 
 <p align="center">
