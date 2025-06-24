@@ -15,9 +15,9 @@
 
 ---
 
-## 💻 Web Developer | 🌐 Frontend Specialist | 🔥 Lifelong Learner
+## 💻 Web Developer | 🌐 MERN stack Specialist | 🔥 Lifelong Learner
 
-I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and building full-stack web applications. I love crafting user-friendly, accessible, and responsive UIs using modern technologies like **React**, **Tailwind CSS**, and **Firebase**.
+I'm a passionate Web Developer from Bangladesh currently learning and building full-stack web applications. I love crafting user-friendly, accessible, and responsive UIs using modern technologies like **React**, **Tailwind CSS**, and **Firebase**.
 
 ---
 
