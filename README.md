@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Al+Imran;MERN+Stack+Learner;Always+Learning+New+Things;Let's+build+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Al+Imran;MERN+Stack+Developer;Always+Learning+New+Things;Let's+build+something+new" />
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 ### 🔥 Contributions Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alimran74&theme=react-dark" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alimran74&theme=react-dark" width="95%" />
 </p>
 
 ---
