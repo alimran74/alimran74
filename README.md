@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Al Imran
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Al+Imran;MERN+Stack+Learner;Always+Learning+New+Things;Let's+build+something+new" />
+  <!-- 🔥 Banner Image -->
+  <img src="[https://i.ibb.co/YRhjvJm/dev-banner.gif](https://i.ibb.co/k2swXDgM/glenn-carstens-peters-0woy-PEJQ7jc-unsplash.jpg)" alt="Developer Banner" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Al+Imran;MERN+Stack+Learner;Always+Learning+New+Things;Let's+build+something+new" />
 </p>
 
 <p align="center">
@@ -23,12 +27,12 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
 </p>
 
-- ✅ MERN Stack Development  
-- ✅ Firebase Auth & JWT  
-- ✅ RESTful API Integration  
-- ✅ MongoDB with Express.js Backend  
-- ✅ React Routing, Context API, and Custom Hooks  
-- ✅ Deployment with Vercel  
+- MERN Stack Development  
+- Firebase Auth & JWT  
+- RESTful API Integration  
+- MongoDB with Express.js Backend  
+- React Routing, Context API, and Custom Hooks  
+- Deployment with Vercel  
 
 ---
 
@@ -46,19 +50,9 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 
 ### 🧰 Tech Stack Badges
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,firebase,vercel,git,github,vscode" />
+</p>
 
 ---
 
@@ -92,15 +86,15 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 ### 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimran74&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactrouter,tailwind,nodejs,express,mongodb,firebase,jwt,vercel,git,github,vscode" />
 </p>
 
 ---
 
-### 🔥 Contributions
+### 🔥 Contributions Heatmap
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alimran74&theme=react-dark" width="95%" />
 </p>
 
 ---
@@ -113,9 +107,17 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn: Al Imran](https://www.linkedin.com/in/al-imran-98a7ab247/)
-- 📧 [aliman.web1@gmail.com](mailto:alimran.web1@gmail.com)
-- 💬 [Chat on WhatsApp](https://wa.me/8801956495589)
+<p align="center">
+  <a href="https://www.linkedin.com/in/al-imran-98a7ab247/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alimran.web1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801956495589">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -123,8 +125,6 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 
 I'm open to freelance projects, team collaboration, and remote internships.  
 If you have an idea or opportunity — let's connect and build something impactful together!
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/26FPGd2YFv1aNQwJy/giphy.gif" width="300"/>
