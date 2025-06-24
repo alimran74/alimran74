@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- 🔥 Banner Image -->
-  <img src="[https://i.ibb.co/YRhjvJm/dev-banner.gif](https://i.ibb.co/k2swXDgM/glenn-carstens-peters-0woy-PEJQ7jc-unsplash.jpg)" alt="Developer Banner" width="100%" />
+  <img src="https://i.ibb.co/YRhjvJm/dev-banner.gif" alt="Developer Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -38,12 +38,20 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 
 ### 🛠️ Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, DaisyUI  
-- **Backend:** Node.js, Express.js, MongoDB, Firebase  
-- **Others:** Git & GitHub, Netlify, Vercel, Postman, VS Code
+- **Frontend:**  
+  HTML, CSS, JavaScript, React, Tailwind CSS, DaisyUI  
+- **Backend:**  
+  Node.js, Express.js, MongoDB  
+- **Deployment & Hosting:**  
+  Vercel, Netlify,Firebase  
+- **Authentication & Database:**  
+  Firebase,Jwt  
+- **Tools & Utilities:**  
+  Git, GitHub, VS Code, Postman
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300" />
 </p>
 
 ---
@@ -51,8 +59,9 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 ### 🧰 Tech Stack Badges
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,firebase,vercel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactrouter,tailwind,nodejs,express,mongodb,firebase,jwt,vercel,git,github,vscode" />
 </p>
+
 
 ---
 
@@ -86,7 +95,7 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 ### 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactrouter,tailwind,nodejs,express,mongodb,firebase,jwt,vercel,git,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimran74&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
