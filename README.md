@@ -65,32 +65,38 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 
 ---
 
-### 🚀 Projects
+### 🌟 Highlight Projects
 
-#### 🛍️ Career Code
-A full-stack job portal for job seekers and employers.
-
-**Tech Used:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-
-🔗 [Live Site](https://career-code.vercel.app) • [GitHub Repo](https://github.com/alimran74/career-code-client)
-
----
+#### 🛍️ Service Spot
+A service marketplace where users can add, explore, and review services with secure auth, filtering, and full CRUD functionality  
+<a href="https://service-spot-2f7aa.web.app" target="_blank" rel="noopener noreferrer">
+  <img src="./serviceSpot.png" width="400" alt="Service Spot Screenshot" />
+</a>
 
 #### 🌟 HobbyHub
-Social platform to discover and join hobby groups.
+Join or create local hobby groups with Firebase & CRUD.  
+<a href="https://hobbyhub-27dd6.web.app" target="_blank" rel="noopener noreferrer">
+  <img src="./hobbyHub.png" width="400" alt="HobbyHub Screenshot" />
+</a>
 
-**Tech Used:** ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=fff)
+#### 📱 AppStore Platform
+App discovery platform with filter & dynamic pages.  
+<a href="https://assignment-09-80714.web.app" target="_blank" rel="noopener noreferrer">
+  <img src="./appStore.png" width="400" alt="AppStore Platform Screenshot" />
+</a>
 
-🔗 [Live Site](https://hobbyhub.vercel.app) • [GitHub Repo](https://github.com/alimran74/hobbyhub-client)
+
 
 
 ---
 
-### 📌 Pinned Projects
+### 📌 See All My Repo
 
-- 🚀 [Career Code](https://github.com/alimran74/career-code-client)  
-- 🎯 [HobbyHub](https://github.com/alimran74/hobbyhub-client)  
-- 📱 [AppStore Platform](https://github.com/alimran74/appstore-client)
+<p align="center">
+  <a href="https://github.com/alimran74?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/-See%20All%20Projects%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="See All Projects" />
+  </a>
+</p>
 
 ---
 
@@ -115,6 +121,14 @@ Social platform to discover and join hobby groups.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alimran74&theme=react-dark" width="95%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alimran74&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
