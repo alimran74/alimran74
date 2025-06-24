@@ -65,32 +65,43 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 
 ---
 
-### 🌟 Highlight Projects
+<h3 align="center">🌟 Highlight Projects</h3>
 
-#### 🛍️ Service Spot
-A service marketplace where users can add, explore, and review services with secure auth, filtering, and full CRUD functionality  
-<a href="https://service-spot-2f7aa.web.app" target="_blank" rel="noopener noreferrer">
-  <img src="./serviceSpot.png" width="400" alt="Service Spot Screenshot" />
-</a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://service-spot-2f7aa.web.app" target="_blank" rel="noopener noreferrer">
+        <img src="./serviceSpot.png" width="300" alt="Service Spot Screenshot"/><br />
+        <strong>🛍️ Service Spot</strong>
+      </a>
+      <p>A marketplace to explore & review services with secure auth & full CRUD.</p>
+    </td>
+    <td align="center">
+      <a href="https://hobbyhub-27dd6.web.app" target="_blank" rel="noopener noreferrer">
+        <img src="./hobbyHub.png" width="300" alt="HobbyHub Screenshot"/><br />
+        <strong>🌟 HobbyHub</strong>
+      </a>
+      <p>Join or create local hobby groups with Firebase & real-time updates.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://assignment-09-80714.web.app" target="_blank" rel="noopener noreferrer">
+        <img src="./appStore.png" width="300" alt="AppStore Platform Screenshot"/><br />
+        <strong>📱 AppStore Platform</strong>
+      </a>
+      <p>App discovery platform with dynamic pages, filtering, and category-wise browsing.</p>
+    </td>
+  </tr>
+</table>
 
-#### 🌟 HobbyHub
-Join or create local hobby groups with Firebase & CRUD.  
-<a href="https://hobbyhub-27dd6.web.app" target="_blank" rel="noopener noreferrer">
-  <img src="./hobbyHub.png" width="400" alt="HobbyHub Screenshot" />
-</a>
-
-#### 📱 AppStore Platform
-App discovery platform with filter & dynamic pages.  
-<a href="https://assignment-09-80714.web.app" target="_blank" rel="noopener noreferrer">
-  <img src="./appStore.png" width="400" alt="AppStore Platform Screenshot" />
-</a>
 
 
 
 
 ---
 
-### 📌 See All My Repo
+
 
 <p align="center">
   <a href="https://github.com/alimran74?tab=repositories" target="_blank">
@@ -161,7 +172,7 @@ I'm open to freelance projects, team collaboration, and remote internships.
 If you have an idea or opportunity — let's connect and build something impactful together!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPGd2YFv1aNQwJy/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="300"/>
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=alimran74&label=Profile%20Views&color=0e75b6&style=flat)
