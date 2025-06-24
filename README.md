@@ -114,7 +114,7 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn: Al Imran](https://www.linkedin.com/in/al-imran-98a7ab247/)
-- 📧 [alimanimran748596@gmail.com](mailto:alimran.web1@gmail.com)
+- 📧 [aliman.web1@gmail.com](mailto:alimran.web1@gmail.com)
 - 💬 [Chat on WhatsApp](https://wa.me/8801956495589)
 
 ---
@@ -134,5 +134,5 @@ If you have an idea or opportunity — let's connect and build something impactf
 
 ---
 
-Thanks for visiting my profile! 🙏  
+Thanks for visiting my profile! ❤️  
 Let’s build something amazing together 🚀
