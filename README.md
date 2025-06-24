@@ -65,13 +65,24 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩 currently learning and b
 
 ---
 
-### 📘 Projects I'm Proud Of
+### 🚀 Projects
 
-- **🛍️ Career Code:** A job marketplace for job seekers and employers with auth, protected routes, and real-time job management.  
-- **🌟 HobbyHub:** A platform for local hobby group enthusiasts with full CRUD features, theme toggle, and Firebase integration.  
-- **📱 AppStore Platform:** App discovery site with category filtering, authentication, and dynamic routing.  
+#### 🛍️ Career Code
+A full-stack job portal for job seekers and employers.
 
-👉 Check out my pinned repositories for more!
+**Tech Used:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+
+🔗 [Live Site](https://career-code.vercel.app) • [GitHub Repo](https://github.com/alimran74/career-code-client)
+
+---
+
+#### 🌟 HobbyHub
+Social platform to discover and join hobby groups.
+
+**Tech Used:** ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=fff)
+
+🔗 [Live Site](https://hobbyhub.vercel.app) • [GitHub Repo](https://github.com/alimran74/hobbyhub-client)
+
 
 ---
 
