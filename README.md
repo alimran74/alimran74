@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- 🔥 Banner Image -->
-  <img src="https://i.ibb.co/YRhjvJm/dev-banner.gif" alt="Developer Banner" width="100%" />
+  <img src="./banner.png" alt="Developer Banner" width="100%" />
 </p>
 
 <p align="center">
