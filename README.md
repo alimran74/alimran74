@@ -39,7 +39,7 @@ I'm a passionate Web Developer from Bangladesh currently learning and building f
 ### 🛠️ Technologies & Tools
 
 - **Frontend:**  
-  HTML, CSS, JavaScript, React, Tailwind CSS, DaisyUI  
+  HTML, CSS, JavaScript, React, Tailwind CSS, DaisyUI,TanStack  
 - **Backend:**  
   Node.js, Express.js, MongoDB  
 - **Deployment & Hosting:**  
