@@ -69,7 +69,7 @@ I'm a passionate Web Developer from Bangladesh currently learning and building f
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center"  colspan="2">
       <a href="https://service-spot-2f7aa.web.app" target="_blank" rel="noopener noreferrer">
         <img src="./serviceSpot.png" width="300" alt="Service Spot Screenshot"/><br />
         <strong>🛍️ Service Spot</strong>
@@ -85,7 +85,7 @@ I'm a passionate Web Developer from Bangladesh currently learning and building f
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="https://assignment-09-80714.web.app" target="_blank" rel="noopener noreferrer">
         <img src="./appStore.png" width="300" alt="AppStore Platform Screenshot"/><br />
         <strong>📱 AppStore Platform</strong>
