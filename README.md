@@ -74,7 +74,7 @@ I'm a passionate Web Developer from Bangladesh currently learning and building f
         <img src="./auramatch.png" width="300" alt="Service Spot Screenshot"/><br />
         <strong>🛍️ Aura Match</strong>
       </a>
-      <p>AuraMatch is a MERN-stack matrimony platform that connects people through biodata, premium features, and secure matchmaking.</p>
+      <p>AuraMatch is a MERN-stack matrimony platform that connects people through biodata and secure matchmaking.</p>
     </td>
      <td align="center" >
       <a href="https://service-spot-2f7aa.web.app" target="_blank" rel="noopener noreferrer">
