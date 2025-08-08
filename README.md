@@ -72,7 +72,7 @@ I'm a passionate Web Developer from Bangladesh currently learning and building f
     <td align="center"  >
       <a href="https://aura-match.web.app/" target="_blank" rel="noopener noreferrer">
         <img src="./auramatch.png" width="300" alt="Service Spot Screenshot"/><br />
-        <strong>🛍️ Aura Match</strong>
+        <strong>✨ Aura Match</strong>
       </a>
       <p>AuraMatch is a MERN-stack matrimony platform that connects people through biodata and secure matchmaking.</p>
     </td>
