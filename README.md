@@ -84,6 +84,7 @@ I'm a passionate Web Developer from Bangladesh currently learning and building f
       <p>A marketplace to explore & review services with secure auth & full CRUD.</p>
     </td>
      </tr>
+   <tr>
     <td align="center">
       <a href="https://hobbyhub-27dd6.web.app" target="_blank" rel="noopener noreferrer">
         <img src="./hobbyHub.png" width="300" alt="HobbyHub Screenshot"/><br />
@@ -91,8 +92,6 @@ I'm a passionate Web Developer from Bangladesh currently learning and building f
       </a>
       <p>Join or create local hobby groups with Firebase & real-time updates.</p>
     </td>
- 
-  <tr>
     <td align="center">
       <a href="https://assignment-09-80714.web.app" target="_blank" rel="noopener noreferrer">
         <img src="./appStore.png" width="300" alt="AppStore Platform Screenshot"/><br />
