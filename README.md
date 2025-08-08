@@ -76,6 +76,13 @@ I'm a passionate Web Developer from Bangladesh currently learning and building f
       </a>
       <p>A marketplace to explore & review services with secure auth & full CRUD.</p>
     </td>
+     <td align="center"  colspan="2">
+      <a href="https://service-spot-2f7aa.web.app" target="_blank" rel="noopener noreferrer">
+        <img src="./serviceSpot.png" width="300" alt="Service Spot Screenshot"/><br />
+        <strong>🛍️ Service Spot</strong>
+      </a>
+      <p>A marketplace to explore & review services with secure auth & full CRUD.</p>
+    </td>
     <td align="center">
       <a href="https://hobbyhub-27dd6.web.app" target="_blank" rel="noopener noreferrer">
         <img src="./hobbyHub.png" width="300" alt="HobbyHub Screenshot"/><br />
